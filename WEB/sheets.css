@@ -1,0 +1,211 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    background-image:url(J4x.gif);
+    
+    background-position: center;
+    /*background-size:cover;*/
+    /* position:relative; */
+}
+.logo{
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 10%;
+    height:15%;
+ 
+
+}
+.subparts{
+    margin-top: -100px;
+    margin-left:200px;
+  display:flex;
+  padding :2% 6%;
+  justify-content: space-between;
+  align-items:right;
+ 
+      
+     font-size: 1.5vw;
+
+    
+   
+    word-spacing:1vw;
+   
+ 
+   border-bottom:2px solid rgb(243, 213, 61) ;
+  
+}
+.subparts{
+    
+    flex:1;
+    text-align:right;
+    
+}
+.subparts  ul  li {
+    list-style-type: none;
+    display:inline-block;
+    position:relative;
+}
+    
+
+a{
+    color:rgb(243, 213, 61);
+    text-decoration: none;
+}
+ a:hover{
+    color:rgb(216, 153, 35);
+    text-decoration: none;
+ }
+ 
+.center{
+display:inline;
+margin:150px;
+padding:10px;
+text-align: center;
+
+}
+.center1{
+    font-size: 50px;
+    color:rgb(255,250,129 );
+  
+
+}
+.center2{
+    font-size: 35px;
+   
+    color:#FFFFB5;
+
+}
+.center3{
+    font-size: 40px;
+    
+    color:rgb(211, 147, 28);
+    
+}
+
+
+.about{
+    width: 500px;
+    margin-left: 100px;
+   text-align: left;
+    font-size:25px;
+    text-align:justify;
+    line-height: 35px;
+   
+     color:rgb(212, 49, 20);
+  
+.about0{
+    font-size: 50px;
+    color: rgb(115, 197, 197);
+    letter-spacing: 1px;
+}
+    
+}
+.about1{
+    font-size:30px;
+    color:whitesmoke;
+  
+ 
+
+}
+.about2{
+    color:whitesmoke;
+    
+}
+.man{
+     width:900px;
+     height: 1000px;
+     align-items:right;
+     margin-left:450px;
+     margin-top: -730px;
+
+
+}
+.join0{
+    margin-left: 800px;
+    color:rgb(13, 238, 238);
+    font-size: 50px;
+
+}
+.join1{
+    margin-left: 1500px;
+    width: 500px;
+    margin-left: 700px;
+    place-items:right;
+    font-size:20px;
+    text-align:justify;
+    line-height: 35px;
+    color:yellow;
+}
+.devices{
+    width:500px;
+    height: 400px;
+    align-items:right;
+    margin-left:100px;
+    margin-top: -1000px;
+}
+h1{
+    align-items: center;
+    margin-left: 550px;
+    letter-spacing: 5px;
+    font-size:60px ;
+    color:rgb(169, 133, 202)
+}
+.aero{
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 350px;
+    height:400px;
+}
+.bio{
+    display:flex;
+    align-items:center;
+    margin-left: 490px;
+    margin-top:-400px ;
+    width: 350px;
+    height:400px;
+
+}
+.chem{
+    margin-left: 890px;
+    margin-top: -400px;
+   width: 420px;
+   height: 530px;
+
+}
+.erc{
+    margin-top: 10px;
+    margin-left: 50px;
+    width: 350px;
+    
+height: 400px;
+}
+.energy{
+    margin-top: 10px;
+    margin-left: 90px;
+    width: 350px;
+    
+height: 400px;}
+.mnp{
+   margin-top: -550px;
+    margin-left: 940px;
+    width:320px;
+    height: 400px;
+}
+.wncc{
+    margin-top:50px;
+    margin-left:200px ;
+    width: 400px;
+    height: 350px;
+
+}
+.krittika{
+    margin-top:-400px;
+    margin-left: 800px;
+    width: 400px;
+    height: 450px;
+}
+
+
